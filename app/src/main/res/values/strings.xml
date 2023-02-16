@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_milagrosa</string>
+    <string-array name="tiposPacientes">
+        <item>diabetes</item>
+        <item>glaucoma</item>
+        <item>leucemia</item>
+    </string-array>
+    <string name="boton_texto">buscar</string>
+    <string name="text_view_tipos">tipos</string>
+</resources>
